@@ -1,7 +1,6 @@
 * {
     box-sizing: border-box;
     font-family: 'Happy Monkey', 'cursive';
-    /* font-family: 'Roboto Slab', serif; */
 }
 
 body {
@@ -42,18 +41,16 @@ h4 {
     width: 170px;
     padding: 1% 0;
     border-radius: 5px;
-    /* margin: 1% 0; */
 }
 
 .date {
     background: #090a19;
     padding: 1%;
     border-radius: 5px;
-    /* margin: 1% 0; */
 }
 
- 
-.gift{
+
+.gift {
     margin: 2%;
 }
 
@@ -63,7 +60,7 @@ h4 {
 
 .card {
     width: 80%;
-    height: 400px;
+    height: 500px;
     margin: auto;
     background-image: url(images/photo-1513201099705-a9746e1e201f.avif);
     background-size: cover;
@@ -71,27 +68,27 @@ h4 {
     border-radius: 5px;
 }
 
-.card:hover{
+.card:hover {
     background-image: url(images/excited.webp);
     background-size: cover;
 }
 
-.two:hover{
+.two:hover {
     background-image: url(https://media3.giphy.com/media/z8XtwKGIRQSBCmU4sW/200w.webp?cid=ecf05e47x4w66vqhthyo6cuk569cqi777jdvivx6099c6gtb&rid=200w.webp&ct=g);
 }
 
-.three:hover{
+.three:hover {
     background-image: url(https://media1.giphy.com/media/VIoJEvVTq8X1R3fqP7/200w.webp?cid=ecf05e47fwms47a6a3qce4mpz77c360kd6pffz4x7jcvaprb&rid=200w.webp&ct=g);
 }
 
-.four:hover{
+.four:hover {
     background-image: url(images/ify2.jpg);
 }
 
-.cheers{
+.cheers {
     width: 450px;
 }
 
-.cheers:hover{
-    background-image: url(https://media2.giphy.com/media/D4hiJ8Oo1xOwUDOzyJ/200w.webp?cid=ecf05e47ghgmwm6q4n53zjw876l1pv0qwnsm4pznnu7p0wap&rid=200w.webp&ct=g); 
+.cheers:hover {
+    background-image: url(https://media2.giphy.com/media/D4hiJ8Oo1xOwUDOzyJ/200w.webp?cid=ecf05e47ghgmwm6q4n53zjw876l1pv0qwnsm4pznnu7p0wap&rid=200w.webp&ct=g);
 }
