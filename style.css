@@ -59,13 +59,13 @@ h4 {
 }
 
 .card {
-    width: 80%;
-    height: 500px;
+    width: 410px;
+    height: 70vh;
+    border: 2px solid #fff;
+    border-radius: 5px;
     margin: auto;
     background-image: url(images/photo-1513201099705-a9746e1e201f.avif);
     background-size: cover;
-    border: 2px solid #fff;
-    border-radius: 5px;
 }
 
 .card:hover {
@@ -86,7 +86,7 @@ h4 {
 }
 
 .cheers {
-    width: 450px;
+    width: 410px;
 }
 
 .cheers:hover {
